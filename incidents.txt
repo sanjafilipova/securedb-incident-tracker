@@ -1,0 +1,3 @@
+1001|Unauthorized Login|CustomerDB|High|Open
+1002|Data Breach|EmployeeDB|Critical|Investigating
+1003|Suspicious Activity|InventoryDB|Low|Resolved
